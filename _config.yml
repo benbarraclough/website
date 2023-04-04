@@ -1,12 +1,12 @@
 # User config
-author: "BeerGoggleGames"
-tagline: "The Home Of Drinking Games"
-description: "We're a small non-profit drinking game website that offers info on all things alcohol related, with our main focus being drinking games."
-keywords: "Drinking Games,Alcohol,Games,Party Games,Party,Drinking,Beer,Spirits,Cocktails,Freshers,Freshers Games,BeerGoggles,BeerGoggleGames,Beer Games,Beer Goggle Games,University,College Games,College,Drunk"
-email: "beergogglegames@hotmail.com"
+author: ""
+tagline: ""
+description: ""
+keywords: ""
+email: ""
 
 # Site config
-baseurl: "/pineapple"
+baseurl: "/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
